@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishnu Kannabiran
-- 🌱 I’m currently pursuing Computer Science with Data Science at VIT Vellore
+- 🌱 I’m currently pursuing Computer Science with specialization in Data Science at VIT Vellore
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine as well Deep Learning
 - 📫 Reach me via
         gmail: vishnu290504@gmail.com
